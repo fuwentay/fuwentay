@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Fu Wen, a Information Engineering undergraduate at the University of Oxford 
 
+- ⚡ Fun fact: I was a Math and Physics Honours student in high school
 - 🔭 I’m currently working on CS50w
 - 🌱 I’m currently learning SQL, Models, and Migrations 
 - 😄 I would love to be given any internship opportunities
