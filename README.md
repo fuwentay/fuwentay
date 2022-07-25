@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fu Wen, a Information Engineering undergraduate at the University of Oxford 
+### Hi there 👋 I'm Fu Wen, an Information Engineering undergraduate at the University of Oxford 
 
 - ⚡ Fun fact: I was a Math and Physics Honours student in high school
 - 🔭 I’m currently working on CS50w
